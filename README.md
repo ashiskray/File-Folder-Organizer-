@@ -4,7 +4,7 @@ This Python script automatically organizes files in a given folder (e.g., Downlo
 
 ---
 
-## 🚀 Features
+##  Features
 - Automatically creates subfolders (if not already present).
 - Moves files into folders based on their extension.
 - Supports multiple categories (Images, PDFs, Documents, Videos).
@@ -13,12 +13,13 @@ This Python script automatically organizes files in a given folder (e.g., Downlo
 
 ---
 
-## 🛠 Requirements
+##  requirements
 - No external libraries required (uses built-in os and shutil).
 
 ---
 
-## 📌 Usage
+## Usage
 1. Clone or download this project.
 2. Open the script organizer.py.
+
 3. Update the source_folder path with the folder you want to organize.
